@@ -125,13 +125,37 @@ img {
   padding: 0;
 }
 
-.hero-img {
+/* .hero-img {
   background-image: url("./images/mainbackpict.svg");
   background-repeat: no-repeat;
   background-position: 78px 89px;  
   border-radius: 25px;
+} */
+
+.section-hero {
+  background-image: url("./images/mainbackpict.svg");
+  background-repeat: no-repeat;
+  background-position: 925px 131px;
 }
 
+.click-wrapper {
+  background-image: url("./images/mainbackpict.svg");
+  background-repeat: no-repeat;
+  background-position: -570px 82px;
+  padding-bottom: 100px;
+  padding-left: 100px;
+  block-size: 1000px 352px;
+}
+
+.speed-wrap {
+  background-image: url("./images/mainbackpict.svg");
+  width: 1000px;
+  height: 352px;
+  background-repeat: no-repeat;
+  background-position: -650px 40px;  
+  padding-bottom: 41px;
+  padding-left: 100px;
+}
 
 .hero-link {
   text-decoration-line: none;
